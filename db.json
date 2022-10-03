@@ -12,8 +12,8 @@
         },
         {
             "id": "2",
-            "name": "Bhendi (Okra) 250 g",
-            "price": "119.00",
+            "name": "Ladies Finger 250 g",
+            "price": "15.00",
             "offer": 17,
             "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
             "image": "https://www.jiomart.com/images/product/600x600/590003550/bhendi-okra-500-g-product-images-o590003550-p590003550-0-202203170339.jpg",
@@ -42,21 +42,21 @@
         },
         {
             "id": "5",
-            "name": "Onion 1 kg",
-            "price": "23.00",
+            "name": "Bottle Gourd 1 kg",
+            "price": "79.00",
             "offer": 7,
             "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-            "image": "https://www.jiomart.com/images/product/600x600/590003515/onion-1-kg-product-images-o590003515-p590003515-0-202203170724.jpg",
+            "image": "https://www.jiomart.com/images/product/600x600/590000174/lauki-bottle-gourd-1-kg-product-images-o590000174-p590000174-0-202203170512.jpg",
             "category": "vegetables",
             "veg": true
         },
         {
             "id": "6",
-            "name": "Banana Yellaki 12 pcs (Approx 750 g)",
+            "name": "Coconut 1 pc (Approx 350 g - 600 g)",
             "price": "109.00",
             "offer": 4,
             "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-            "image": "https://www.jiomart.com/images/product/600x600/590001655/banana-yellaki-12-pcs-approx-750-g-1000-g-product-images-o590001655-p590041069-0-202203152123.jpg",
+            "image": "https://www.jiomart.com/images/product/600x600/590000086/coconut-1-pc-approx-350-g-600-g-product-images-o590000086-p590000086-0-202203170206.jpg",
             "category": "vegetables",
             "veg": true
         },
