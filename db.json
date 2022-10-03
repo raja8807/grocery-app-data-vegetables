@@ -2,11 +2,11 @@
     "vegetables": [
         {
             "id": "1",
-            "name": "Apple",
-            "price": "440.00",
-            "offer": 5,
+            "name": "Potato per kg",
+            "price": "33.00",
+            "offer": 17,
             "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-            "image": "https://www.jiomart.com/images/product/600x600/590004487/apple-indian-6-pcs-pack-approx-750-g-950-g-product-images-o590004487-p590004487-0-202203170227.jpg",
+            "image": "https://www.jiomart.com/images/product/600x600/590003516/potato-per-kg-product-images-o590003516-p590003516-0-202203170642.jpg",
             "category": "vegetables",
             "veg": true
         },
